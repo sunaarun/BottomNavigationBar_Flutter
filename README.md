@@ -1,6 +1,17 @@
 # bottom_navigation_app
 
-A new Flutter project.
+A new Flutter project that uses a **BottomNavigationBar**.
+
+
+You can watch the episode on #YouTube, link:
+https://youtu.be/7Oe5XXOn7xk
+
+
+
+![d1](https://user-images.githubusercontent.com/36349126/155957393-fe92b9e2-2bd4-476c-9c94-c66a4d364a0a.png)
+![d2](https://user-images.githubusercontent.com/36349126/155957396-9f430d7c-60f0-4d2e-a8ec-6f08a11df7ce.png)
+
+
 
 ## Getting Started
 
